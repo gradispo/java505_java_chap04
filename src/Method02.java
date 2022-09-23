@@ -55,8 +55,11 @@ public class Method02 {
 //           1. 구구단을 출력하는 부분을 함수로 구현 (함수명 : gugudan)
 //           2. 사용자 입력 부분은 함수로 구현해도 되고 안해도 됨
         System.out.println("\n----- 2번 문제 -----\n");
+
+
         System.out.print("출력할 구구단 단수를 입력하세요 : ");
         int dansu = scanner.nextInt();
+
 
         gugudan(dansu);
 
@@ -182,6 +185,7 @@ public class Method02 {
     }
 
     public static void gugudan(int dan) {
+
         for (int i = 1; i < 10; i++) {
             System.out.println(dan + " * " + i + " = " + dan * i);
         }
