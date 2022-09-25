@@ -2,42 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bcade31f-5ca1-4b31-8262-eb9e00ad4435" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BMI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Calc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Car2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Car3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Car4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Car5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Car6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Earth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EarthEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GetSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GetterSetterEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Method03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Method04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Method05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Method06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PersonEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Phone1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Phone2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PhoneManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Rect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Singleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SingletonEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StaticClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StaticMember.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tv.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/package1/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/package1/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/package2/AccessEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/package2/C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/package2/D.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Method02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Method02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PhoneManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PhoneManager.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,15 +29,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/java505/intellij/chap04/src",
-    "settings.editor.selected.configurable": "preferences.editor"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/java505/intellij/chap04/src&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\java505\intellij\chap04\src" />
