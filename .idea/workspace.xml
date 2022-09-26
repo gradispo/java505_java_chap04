@@ -2,24 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bcade31f-5ca1-4b31-8262-eb9e00ad4435" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/admin.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Training_3/Bonus_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Training_3/OpenChallenge_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Training_3/QuestionEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Training_3/Question_3_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Training_3/Question_3_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Training_3/Question_3_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Training_3/Question_3_6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Training_4/Question_4_1_Song.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Training_4/Question_4_2_Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Training_4/Question_4_3_Rect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Training_4/Question_4_4_Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Training_4/Question_4_4_PhoneManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Training_4/Training_1_Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Training_4/Training_2_MathRandom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Training_4/Training_3_Lotto.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PhoneManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PhoneManager.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

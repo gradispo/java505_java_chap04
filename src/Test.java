@@ -10,7 +10,7 @@ public class Test {
 
         for (int i = 0; i < lotto.length; i++) {
 
-            int randomNumber = (int) ((Math.random() * 45) +1);
+            int randomNumber = (int)(Math.random()*45)+1;
 
             for (int j = 0; j < i; j++) {
                 if (randomNumber == lotto[j]) {
@@ -19,11 +19,9 @@ public class Test {
                 }
                 lotto[i] = randomNumber;
             }
-
             if (i == 0) {
                 lotto[i] = randomNumber;
             }
-
         }
 
         Arrays.sort(lotto);
